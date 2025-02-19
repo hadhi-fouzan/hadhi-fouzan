@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://games-sport-se.blogspot.com/](https://games-sport-se.blogspot.com/)
 
-- 💬 Ask me about **React,CSS,HTML,Java Script,Flutter**
+- 💬 Ask me about **React.js,CSS,HTML,Java Script,Flutter**
 
 - 📫 How to reach me **hadifouzan@gmail.com**
 
